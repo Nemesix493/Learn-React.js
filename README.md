@@ -1,6 +1,6 @@
 # Learn-ReactJs
 
-version = 0.0.0
+version = 0.1.0
 
 Here, you can find some exercises that I used to learn ReactJs.
 
@@ -10,7 +10,7 @@ The exercises are sorted by level:
 
 **Beginner**
 
-1. - [ ] Todo List
+1. - [x] [Todo List](Beginner/1_Todo_List/)
 2. - [ ] Weather App
 3. - [ ] Random Quote Generator
 4. - [ ] GitHub User Search
